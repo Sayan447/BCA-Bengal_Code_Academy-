@@ -24,7 +24,7 @@
 
 /* pseudo element */
 /* pseudo classes */
-
+/* CDN - content delivery Network */
 
 
 /* units :- px, % , vw , vh, em ,rem  */
@@ -39,10 +39,15 @@ body{
     color: rgb(130, 8, 8);
 }
 
+
+
+
+/* boiler plate code */
+
 /* 
 *{
     margin: 0;
-    padding: 0;
+    padding: 0; 
     box-sizing: border-box;
 }
 
