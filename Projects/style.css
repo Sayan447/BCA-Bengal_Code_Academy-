@@ -1,6 +1,6 @@
 body{
-    background-color: black;
-    color: white;
+    background-color: rgba(0, 0, 0, 0.854);
+    color: rgba(255, 255, 255, 0.984);
 }
 
 li{
@@ -10,4 +10,87 @@ li{
 #Total{
     text-align: center;
     justify-content: center;
+}
+
+h1{
+    /* background-color: gold; */
+    padding: 10px;
+}
+
+#second{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5rem;
+    /* background-color: red; */
+    margin:5px;
+    padding: 8px;
+
+}
+
+ul{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5rem;
+    font-style:italic;
+    font-size: large;
+    text-align: center;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+
+.form{
+    margin:5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1.2rem;
+    
+}
+
+.icon{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    font-size: 32px;
+    width: 48px;
+    height: 48px;
+    background-color: #f31515f6;
+    margin: 10px;
+    padding: 10px;
+    border: 5px solid white;
+}
+
+
+img{
+    height:50%;
+    width: 20%;
+    margin: 10px;
+    padding: 10px;
+    /* display: block */
+}
+.image{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    /* padding: 10px; */
+    /* margin-left: 10px; */
+}
+audio{
+    margin: 50px;
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+
+footer{
+    text-align: center;
+  padding: 5px;
+  background-color: #abbaba;
+  color: #000;
 }
