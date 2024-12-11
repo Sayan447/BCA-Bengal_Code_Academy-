@@ -23,7 +23,12 @@
 /* flex , grid */
 
 /* pseudo element */
-/* pseudo class */
+/* pseudo classes */
+
+
+
+/* units :- px, % , vw , vh, em ,rem  */
+/* max width & min width */
 body{
     background-color: black;
     color: white;
